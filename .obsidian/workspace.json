@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "aea5242c09124e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M_Note/数组（完善版）.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数组（完善版）"
+            }
+          },
+          {
             "id": "64f1bd3dea9e96bc",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M_Note/数组.md",
+                "file": "M_Note/数组（完善版）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数组 的大纲"
+              "title": "数组（完善版） 的大纲"
             }
           }
         ]
@@ -196,23 +211,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e043e4f8111f0a7",
+  "active": "874bfc83b5025e81",
   "lastOpenFiles": [
+    "M_Note/数组（完善版）.md.tmp.25672.7a11198ca485",
+    "M_Note/数组（完善版）.md.tmp.25672.6b47a03e355b",
+    "M_Note/数组.md",
+    "M_Note/数组（完善版）.md",
+    "M_Note/数组（完善版）.md.tmp.25672.8e0ee79473f7",
+    "M_Note/数组（完善版）.md.tmp.25672.43b1f3e82980",
+    "M_Note/内容.md",
     "Homepage.md",
     "Homepage.md.tmp.25672.67fe22b5e152",
-    "M_Note/数组.md",
     "Scripts/Amat.mat",
     "SimulinkTest/ROADMAP.md",
-    "M_Note/内容.md",
     "SimulinkTest/notes/ch01-overview.md",
     "M_Note",
     "Models/Test.slx.bak",
     "Models/Test.slx.autosave",
     "Models/slprj/ert/Test/tmwinternal/scv",
     "Models/Test_ert_rtw/tmwinternal/simulink_cache.xml",
-    "Models/Test.slxc",
-    "Models/Test_ert_rtw/compileInfo.mat",
-    "Models/Test_ert_rtw/buildInfo.mat",
     "SimulinkTest/notes/00-索引.md",
     "SimulinkTest/README.md",
     "SimulinkTest/references.md",
