@@ -49,8 +49,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,16 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "874bfc83b5025e81",
+  "active": "9e043e4f8111f0a7",
   "lastOpenFiles": [
+    "Homepage.md",
+    "M_Note/数组（完善版）.md",
     "M_Note/数组（完善版）.md.tmp.25672.7a11198ca485",
     "M_Note/数组（完善版）.md.tmp.25672.6b47a03e355b",
     "M_Note/数组.md",
-    "M_Note/数组（完善版）.md",
     "M_Note/数组（完善版）.md.tmp.25672.8e0ee79473f7",
     "M_Note/数组（完善版）.md.tmp.25672.43b1f3e82980",
     "M_Note/内容.md",
-    "Homepage.md",
     "Homepage.md.tmp.25672.67fe22b5e152",
     "Scripts/Amat.mat",
     "SimulinkTest/ROADMAP.md",
@@ -229,7 +228,6 @@
     "Models/Test.slx.bak",
     "Models/Test.slx.autosave",
     "Models/slprj/ert/Test/tmwinternal/scv",
-    "Models/Test_ert_rtw/tmwinternal/simulink_cache.xml",
     "SimulinkTest/notes/00-索引.md",
     "SimulinkTest/README.md",
     "SimulinkTest/references.md",
